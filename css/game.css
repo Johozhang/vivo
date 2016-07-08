@@ -1,0 +1,36 @@
+#container {
+	background: url(../img/game/bg.jpg) no-repeat;
+	width: 100%;
+}
+
+h2 {
+	text-align: center;
+	color: #fff;
+	padding-top: 35px;
+	margin-bottom: 36px;
+	display: block;
+	font-size: 1.8rem;
+}
+
+.kuang_wrap {
+	background: url(../img/game/kuang_bg.png) no-repeat;
+	background-size: 100% 100%;
+	width: 90%;
+	margin: 0 auto;
+	position: relative;
+}
+
+#time {
+	color: #fff;
+	font-size: 1.4rem;
+}
+
+#person_kuang {
+	min-width: 265px;
+}
+
+#person_kuang img{
+	float: left;
+	background: url(../img/game/person_kuang.png) no-repeat;
+	background-size: 100% 100%;
+}
